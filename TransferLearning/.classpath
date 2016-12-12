@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/core.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/dense64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/denseC64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/eventbus.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-main.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-android-aarch64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-android-armv6.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-linux-armv6.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-solaris-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/j-ogg-all.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jglfont-core.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jinput-platform-natives-linux.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jinput-platform-natives-osx.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jinput-platform-natives-windows.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jinput.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-blender.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-core.jar" sourcepath="/Users/WonbinLIM/Documents/WORK/LIP6/STAGE_LIP6_juin-aout-2016/DOC/jME3/sources/jme3-core-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/WonbinLIM/Documents/WORK/LIP6/STAGE_LIP6_juin-aout-2016/DOC/jME3/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-desktop.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-effects.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-jbullet.jar" sourcepath="/Users/WonbinLIM/Documents/WORK/LIP6/STAGE_LIP6_juin-aout-2016/DOC/jME3/sources/jme3-jbullet-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-jogg.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-jogl.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/WonbinLIM/Documents/WORK/LIP6/STAGE_LIP6_juin-aout-2016/DOC/jME3/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-networking.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-niftygui.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-plugins.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-terrain.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/WonbinLIM/Documents/WORK/LIP6/STAGE_LIP6_juin-aout-2016/DOC/jME3/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/resources/jme/jme3-testdata.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-main.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-android-aarch64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-android-armv6.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-linux-armv6.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-solaris-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/joal.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-main.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-android-aarch64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-android-armv6.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-linux-armv6.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-solaris-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jogl-all.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jsr305.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/jutils.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/lwjgl-platform-natives-linux.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/lwjgl-platform-natives-osx.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/lwjgl-platform-natives-windows.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/lwjgl.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/nifty-default-controls.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/nifty-examples.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/nifty-style-black.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/nifty.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/simple.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/vecmath.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jme/xpp3.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/sma-tools.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/MonkeyBrains.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/Steer Demos.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jade.jar" sourcepath="/Users/WonbinLIM/Downloads/JADE-all-4/jade 2"/>
+	<classpathentry kind="lib" path="src/main/resources/jpl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
