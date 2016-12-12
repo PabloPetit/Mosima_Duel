@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="demo">
-    <CLASSES>
-      <root url="file://$PROJECT_DIR$/ressources/lib/prolog/gnuprologjava-0.2.6/demo" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
